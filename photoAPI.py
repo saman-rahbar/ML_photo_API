@@ -1,4 +1,4 @@
-""" Solution to the inteview question, lotlins - Nov 16, 2018
+""" Solution to the inteview question, lotlinx - Nov 16, 2018
     By: Saman Rahbar - Revision is made to the previous verion
     since the API URL and data structure were changed """
 
