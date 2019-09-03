@@ -1,0 +1,90 @@
+[
+    {
+        "imageUrl": "https://img.lotlinx.com/vdn/7416/jeep_wrangler%20unlimited_2014_1C4BJWFG3EL326863_7416_339187295.jpg",
+        "color": [
+            46,
+            15,
+            46
+        ],
+        "classification": "front_3_quarter",
+        "points": [
+            [
+                93,
+                383
+            ],
+            [
+                925,
+                726
+            ]
+        ],
+        "imageId": 0,
+        "modifiedUrl": "http://lotlinx-ml-images.s3.amazonaws.com/front_3_quarter/jeep_wrangler%20unlimited_2014_1C4BJWFG3EL326863_7416_339187295.png",
+        "text": "mm  m 5 ANCHORAGE  an.  \u2019ZFA\u2018M-?gk/mm"
+    },
+    {
+        "imageUrl": "https://img.lotlinx.com/vdn/7416/jeep_wrangler%20unlimited_2014_1C4BJWFG3EL326863_7416_3_339187295.jpg",
+        "color": [
+            110,
+            46,
+            46
+        ],
+        "classification": "side",
+        "points": [
+            [
+                110,
+                97
+            ],
+            [
+                840,
+                431
+            ]
+        ],
+        "imageId": 2,
+        "modifiedUrl": "http://lotlinx-ml-images.s3.amazonaws.com/side/jeep_wrangler%20unlimited_2014_1C4BJWFG3EL326863_7416_3_339187295.png",
+        "text": ""
+    },
+    {
+        "imageUrl": "https://img.lotlinx.com/vdn/7416/jeep_wrangler%20unlimited_2014_1C4BJWFG3EL326863_7416_4_339187295.jpg",
+        "color": [
+            15,
+            15,
+            46
+        ],
+        "classification": "side",
+        "points": [
+            [
+                68,
+                152
+            ],
+            [
+                912,
+                512
+            ]
+        ],
+        "imageId": 3,
+        "modifiedUrl": "http://lotlinx-ml-images.s3.amazonaws.com/side/jeep_wrangler%20unlimited_2014_1C4BJWFG3EL326863_7416_4_339187295.png",
+        "text": ""
+    },
+    {
+        "imageUrl": "https://img.lotlinx.com/vdn/7416/jeep_wrangler%20unlimited_2014_1C4BJWFG3EL326863_7416_5_339187295.jpg",
+        "color": [
+            15,
+            15,
+            46
+        ],
+        "classification": "side",
+        "points": [
+            [
+                51,
+                106
+            ],
+            [
+                883,
+                499
+            ]
+        ],
+        "imageId": 4,
+        "modifiedUrl": "http://lotlinx-ml-images.s3.amazonaws.com/side/jeep_wrangler%20unlimited_2014_1C4BJWFG3EL326863_7416_5_339187295.png",
+        "text": ""
+    }
+]
